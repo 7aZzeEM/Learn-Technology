@@ -1,0 +1,157 @@
+:root {
+    --main-color: #39c56e;
+    --color-bar-hover: #00fcff;
+    --color-parag: #efefef;
+    --color-button: #0075ff;
+    --color-button-hover: #0f56a9;
+    --color-link: #409add;
+    --orange-color: #ff8f00;
+    --trans: .3s;
+    --back-rate-color: #1f5aaf9c;
+    --error-message: #e8b8b8;
+    --warning-message: #bdcc90;
+    --successfully-message: #7cb27c;
+}
+* {
+    --webkit-box-sizing: border-box;
+    --moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+body {
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-variation-settings: "wdth" 100;
+}
+.rad-15 {
+    border-radius: 15px;
+}
+li {
+    list-style: none;
+}
+a {
+    text-decoration: none;
+    cursor: pointer;
+}
+.rad-6 {
+    border-radius: 6px;
+}
+.p-relative {
+    position: relative;
+}
+.p-absolute {
+    position: absolute;
+}
+.c-fff {
+    color: #fff;
+}
+.d-block {
+    display: block;
+}
+.d-flex {
+    display: flex;
+}
+.d-grid {
+    display: grid;
+}
+.hide {
+    display: none;
+}
+.overHidden {
+    overflow: hidden;
+}
+.space-between {
+    display: flex;
+    justify-content: space-between;
+}
+.justify-center {
+    display: flex;
+    justify-content: center;
+}
+.grid-center {
+    display: grid;
+    justify-content: center;
+}
+.center-flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.align-center {
+    display: flex;
+    align-items: center;
+}
+.betweenAndCenter {
+    align-items: center;
+    justify-content: space-between;
+}
+.text-center {
+    text-align: center;
+}
+.text-left {
+    text-align: left;
+}
+.text-right {
+    text-align: right;
+}
+.font-bold {
+    font-weight: bold;
+}
+.m-auto {
+    margin: auto;
+}
+.ml-auto {
+    margin-left: auto;
+}
+.m-0 {
+    margin: 0;
+}
+.mr-10 {
+    margin-right: 10px;
+}
+.mb-10 {
+    margin-bottom: 10px;
+}
+.mt-10 {
+    margin-top: 10px;
+}
+.mt-20 {
+    margin-top: 20px;
+}
+.ml-10 {
+    margin-left: 10px;
+}
+.w-full {
+    width: 100%;
+}
+.h-full {
+    height: 100%;
+}
+.w-fit {
+    width: fit-content;
+}
+.wrap {
+    flex-wrap: wrap;
+}
+.b-none {
+    border: none;
+}
+.p-10 {
+    padding: 10px;
+}
+.flex-2 {
+    flex: 2;
+}
+.pointer {
+    cursor: pointer;
+}
+.notAllow {
+    cursor: not-allowed;
+}
+.b-none {
+    border: none;
+}
+.out-none {
+    outline: none;
+}
