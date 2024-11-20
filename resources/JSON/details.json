@@ -1,0 +1,16 @@
+{
+    "contact" : {
+        "phone" : ["+202-007-3568","+373-597-2363"],
+        "title" : ["USA New York City, street 257 next pizza brand"],
+        "social": [
+            {
+                "name" : "linkedin",
+                "url" : "https://linkedin.com/learntechnology/message"
+            },
+            {
+                "name" : "facebook",
+                "url" : "https://www.facebook.com/learntechnology/message"
+            }
+        ]
+    }
+}
