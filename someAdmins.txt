@@ -1,0 +1,24 @@
+Email: learntechnology@learntechnology.org
+pass: ownerTheCompany
+
+            [ Company Account ]
+
+Email: testAdminAccount3@gmail.com
+pass: testAccount2
+
+            [ Super Admin ]
+
+Email: SasaMohamed@gmail.com
+pass: TestAccount
+
+            [ Normal Admin ]
+
+Email: TestGirlAdmin@yahoo.com
+pass: TestTestAdmin
+
+            [ Normal Admin ]
+
+Email: TestSuperAdmin@gmail.com
+pass: testAdminNew
+
+            [ Super Admin ]

@@ -1,0 +1,17 @@
+[90m= [39m[34;4mApp\Models\User[39;24m {#5964
+    [34mid[39m: [35m2[39m,
+    [34mfirst_name[39m: "[32mHazem[39m",
+    [34mlast_name[39m: "[32mOsama[39m",
+    [34memail[39m: "[32mbrittanyattack247@gmail.com[39m",
+    #[33mpassword[39m: "[32m$2y$12$u4Y6e8CtENGk3HyPOHSseOrsnRlrHLaaSSRE2pdM0utzFIxRekNCa[39m",
+    [34mphone[39m: "[32m01115719918[39m",
+    [34mphoto[39m: "[32m1730509285_HackerBlue.jpg[39m",
+    [34mcourses_sub[39m: "[32m[{"id":2,"name":"C++","videos":16,"videosEnd":16,"color":"#007ee3"},{"id":4,"name":"HTML","videos":27,"videosEnd":27,"color":"#13b26a"},{"id":5,"name":"JavaScript","videos":66,"videosEnd":0,"color":"#d5d51c"},{"id":6,"name":"PHP","videos":92,"videosEnd":0,"color":"#009aff"}][39m",
+    [34mcourses_end[39m: "[32m[{"id":4,"name":"HTML","videos":27,"videosEnd":27,"color":"#13b26a"},{"id":2,"name":"C++","videos":16,"videosEnd":16,"color":"#007ee3"}][39m",
+    [34mcategory[39m: "[32mWeb Security Researcher[39m",
+    [34mprojects[39m: "[32m{"1":{"name":"Employes","url":"https:\/\/github.com\/HaZzeEM.H\/Employes"},"2":{"name":"Students","url":"https:\/\/github.com\/HaZzeEM.H\/students"}}[39m",
+    [34mcreated_at[39m: "[32m2024-10-19 04:47:31[39m",
+    [34mupdated_at[39m: "[32m2024-11-03 02:46:52[39m",
+    [34mlinks[39m: "[32m[{"name":"Facebook","url":"https:\/\/facebook.com\/HaZzeEM.H"},{"name":"Twitter","url":"https:\/\/twitter.com\/HaZzeEM.H"}][39m",
+  }
+
